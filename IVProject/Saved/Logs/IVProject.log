@@ -866,3 +866,15 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.01-21.48.53:035][106]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/MyBP/BP_Boton]
 [2021.02.01-21.48.53:127][106]LogSavePackage: Moving 'D:/Escritorio/CLASES/Ingenieria de videojuegos/Trabajos/JuegoIV/IVProject/Saved/BP_Boton_Auto1E583498E4762640E2294CE9F15F9CCDA.tmp' to 'D:/Escritorio/CLASES/Ingenieria de videojuegos/Trabajos/JuegoIV/IVProject/Saved/Autosaves/Game/FirstPersonBP/Blueprints/MyBP/BP_Boton_Auto1.uasset'
 [2021.02.01-21.48.53:129][106]LogFileHelpers: Auto-saving content packages took 0.121
+[2021.02.01-22.33.31:226][861]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.02.01-22.33.31:738][903]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2021.02.01-22.33.32:383][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall)
+[2021.02.01-22.33.33:053][ 54]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.02.02-00.22.55:356][704]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{6c1f5fa0-e9f2-41fa-96c2-035c7eaa7976}.
+[2021.02.02-00.22.55:356][704]LogAudioMixer: Resetting audio stream to device id 
+[2021.02.02-00.22.55:414][704]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.02-00.22.55:414][704]LogAudioMixer: Display: 1: FrontRight
+[2021.02.02-09.11.09:691][223]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{c7b33943-21ab-41f1-8ce6-78d450409eab}.
+[2021.02.02-09.11.09:691][223]LogAudioMixer: Resetting audio stream to device id 
+[2021.02.02-09.11.09:740][223]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.02-09.11.09:740][223]LogAudioMixer: Display: 1: FrontRight
